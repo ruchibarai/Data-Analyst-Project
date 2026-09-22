@@ -11,3 +11,7 @@
 ■ Meta platform Update and Performance | SQL
 
 ▪︎ SQL database project designed to manage Meta platform updates and analyze employee performance, featuring relational tables, data management, performance metrics, employee ranking, filtering, aggregation, and report generation using SQL queries.
+
+■ IT service desk and analytics dashboard.
+
+▪︎ Interactive Power BI dashboard analyzing IT service desk incidents, ticket trends, resolution performance, SLA compliance, and support team workload using Power Query and DAX
