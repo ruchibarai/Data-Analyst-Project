@@ -14,4 +14,12 @@
 
 ■ IT service desk and analytics dashboard.
 
-▪︎ Interactive Power BI dashboard analyzing IT service desk incidents, ticket trends, resolution performance, SLA compliance, and support team workload using Power Query and DAX
+▪︎ Interactive Power BI dashboard analyzing IT service desk incidents, ticket trends, resolution performance, SLA compliance, and support team workload using Power Query and DAX.
+
+Screenshot/Demo:
+IT Service Desk Performance & SLA Analysis: https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IT%20Service%20Desk%20Performance%20%26%20SLA%20Analysis.png
+
+IT Service Desk Workload & Support Analysis: https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IT%20SERVICE%20DESK%20%26%20INCIDENT%20ANALYTICS%20DASHBOARD.png
+
+IT SERVICE DESK & INCIDENT ANALYTICS DASHBOARD: 
+https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IT%20Service%20Desk%20Performance%20%26%20SLA%20Analysis.png
