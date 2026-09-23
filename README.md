@@ -8,6 +8,15 @@
 
 ▪︎ Interactive Power BI dashboard analyzing IPL team and match performance through runs, wickets, boundaries, wins, toss outcomes, venue trends, and season-wise insights using interactive filters and slicers.
 
+Screenshots/Demo
+https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IPL%20Performance%20Analytical%20Dashboard%201-1.png
+
+https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IPL%20Performance%20Analytical%20Dashboard%202.png
+
+https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IPL%20Performance%20Analytical%20Dashboard%203.png
+
+https://github.com/ruchibarai/Data-Analyst-Project/blob/main/Snapshot%20IPL%20Performance%20Analytical%20Dashboard%204.png
+
 ■ Meta platform Update and Performance | SQL
 
 ▪︎ SQL database project designed to manage Meta platform updates and analyze employee performance, featuring relational tables, data management, performance metrics, employee ranking, filtering, aggregation, and report generation using SQL queries.
